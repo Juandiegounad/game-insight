@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resident Evil Requiem - Game Insight</title>
+</head>
+
+<body style="background:#0f0f0f;color:white;font-family:Arial;">
+
+<h1>Resident Evil Requiem</h1>
+
+<h2>Historia</h2>
+<p>
+Resident Evil Requiem nos lleva de regreso a Raccoon City donde los jugadores
+deben enfrentarse a diferentes situaciones para sobrevivir.
+</p>
+
+<h2>Jugabilidad</h2>
+<p>
+Controlamos a Leon Kennedy en tercera persona y a Ashley en primera persona,
+lo que ofrece diferentes formas de jugar.
+</p>
+
+<h2>Gráficos y sonido</h2>
+<p>
+El juego tiene una gran calidad visual y sonora que genera tensión constante
+y una gran inmersión para el jugador.
+</p>
+
+<h2>Puntuación final</h2>
+<p>⭐⭐⭐⭐☆ (4 de 5 estrellas)</p>
+
+<a href="index.html">Volver al inicio</a>
+
+</body>
+</html>

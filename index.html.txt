@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Game Insight</title>
+
+<style>
+
+body{
+background:#0f0f0f;
+color:white;
+font-family:Arial;
+margin:0;
+}
+
+header{
+background:#1a1a1a;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:#111;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:#00ff9c;
+margin:15px;
+text-decoration:none;
+font-weight:bold;
+}
+
+section{
+padding:40px;
+}
+
+.card{
+background:#1e1e1e;
+padding:20px;
+margin:20px;
+border-radius:10px;
+}
+
+.stars{
+color:gold;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Game Insight</h1>
+<p>Descubre qué te puede deparar tu próxima gran aventura</p>
+</header>
+
+<nav>
+<a href="index.html">Inicio</a>
+<a href="top.html">Top Juegos</a>
+<a href="resenas.html">Reseñas</a>
+</nav>
+
+<section>
+
+<h2>Top juegos del año</h2>
+
+<div class="card">
+<ol>
+<li><a href="resident-evil-requiem.html">Resident Evil Requiem</a></li>
+<li>Elden Ring</li>
+<li>Baldur's Gate 3</li>
+<li>God of War Ragnarok</li>
+<li>Cyberpunk 2077</li>
+</ol>
+</div>
+
+<h2>Sobre Game Insight</h2>
+
+<div class="card">
+<p>
+Game Insight es un sitio web de análisis de videojuegos que ayuda a los jugadores
+a decidir qué juego comprar mediante reseñas, análisis y puntuaciones de 1 a 5 estrellas.
+</p>
+</div>
+
+<h2>Reseña destacada</h2>
+
+<div class="card">
+<h3>Resident Evil Requiem</h3>
+<p class="stars">⭐⭐⭐⭐☆</p>
+<p>
+Un regreso a Raccoon City lleno de tensión, supervivencia y nostalgia para los fans
+de la saga Resident Evil.
+</p>
+</div>
+
+</section>
+
+</body>
+</html>

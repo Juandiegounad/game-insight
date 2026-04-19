@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Top Juegos</title>
+</head>
+
+<body style="background:#0f0f0f;color:white;font-family:Arial;">
+
+<h1>Top 10 juegos del año</h1>
+
+<ol>
+<li>Resident Evil Requiem</li>
+<li>Elden Ring</li>
+<li>Baldur's Gate 3</li>
+<li>God of War Ragnarok</li>
+<li>Cyberpunk 2077</li>
+</ol>
+
+<a href="index.html">Volver al inicio</a>
+
+</body>
+</html>

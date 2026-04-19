@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Reseñas - Game Insight</title>
+</head>
+
+<body style="background:#0f0f0f;color:white;font-family:Arial;">
+
+<h1>Reseñas de videojuegos</h1>
+
+<ul>
+<li><a href="resident-evil-requiem.html">Resident Evil Requiem ⭐⭐⭐⭐☆</a></li>
+<li>Elden Ring ⭐⭐⭐⭐⭐</li>
+<li>Baldur's Gate 3 ⭐⭐⭐⭐⭐</li>
+<li>God of War Ragnarok ⭐⭐⭐⭐⭐</li>
+</ul>
+
+<a href="index.html">Volver al inicio</a>
+
+</body>
+</html>
